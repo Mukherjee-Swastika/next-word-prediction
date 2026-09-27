@@ -187,16 +187,17 @@ Predicted Next Word: ______
 ```text
 next-word-prediction/
 │
-├── app.py                    # Streamlit application
-├── codefile.ipynb            # Main NLP/LSTM implementation
-├── RNNimplementation.ipynb   # Simple RNN implementation
-├── qoute_dataset.csv         # Training dataset
-├── lstm_model.h5             # Trained LSTM model
-├── tokenizer.pkl             # Saved tokenizer
-├── max_len.pkl               # Saved sequence length
-├── requirements.txt          # Python dependencies
-├── .gitignore                # Git ignored files
-└── README.md                 # Project documentation
+├── app.py
+├── codefile.ipynb
+├── RNNimplementation.ipynb
+├── qoute_dataset.csv
+├── lstm_model.h5
+├── tokenizer.pkl
+├── max_len.pkl
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
 ```
 
 ## ⚙️ Installation
